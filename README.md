@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Rashya%Gibran]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Rashya%&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">Rashya Gibran</h1>
@@ -9,10 +9,10 @@
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Mahasiswa
+- **Sedang mendalami**: React.js, Git & GitHub Workflow
+- **Target**: Becoming Frontend Developer Profesional
+- **Fun fact**: Can do anything
 
 ---
 
